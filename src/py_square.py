@@ -1,5 +1,5 @@
-def square(n):
+def square(e):
 	# edited while pulling the code to the local machine.
-	return(n**2)
+	return(e**2)
 
 print(square(5))
